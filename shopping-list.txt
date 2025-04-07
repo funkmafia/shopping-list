@@ -3,3 +3,5 @@ bread
 bacon
 sweets
 eggs
+toaster
+grapes
