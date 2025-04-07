@@ -1,2 +1,5 @@
 tomatoes
 bread 
+bacon
+sweets
+eggs
